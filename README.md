@@ -151,9 +151,8 @@ To deploy your Streamlit app online:
 ## 👩‍💻 Author
 
 **Shahd Elkilany**
-Operations Manager @ Nilelon | AI & Data Science Intern @ DEPI | Passionate about AI & Space Tech
-📧 [Your email here if you want]
-🌍 [LinkedIn Profile link]
+AI & Data Science Intern @ DEPI | Passionate about AI & Space Tech
+📧 shahdelkilanyy@gmail.com
 
 ---
 
